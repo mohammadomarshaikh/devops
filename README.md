@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Get All Products - http://127.0.0.1:5000/products Method = GET
 Get Product By Id - http://127.0.0.1:5000/products/1 Method = GET
 Add a Product - http://127.0.0.1:5000/products Method = POST
@@ -9,3 +10,7 @@ Sample Body Data For Postman { "user_id": "user123", "product_id": 2, "quantity"
 
 Delete Product From Cart - http://127.0.0.1:5000/cart/delete Method = POST
 Sample Body Data For Postman { "user_id": "user123", "product_id": 2 }
+=======
+# CodeGym
+CodeGym Repository
+>>>>>>> 0c1c500 (new)
